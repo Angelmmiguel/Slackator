@@ -1,0 +1,8 @@
+# Libs
+node_modules
+
+# debug
+npm-debug*
+
+# Config
+config.json

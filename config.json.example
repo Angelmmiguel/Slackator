@@ -1,0 +1,11 @@
+{
+  "slack": {
+    "name": "Phabricator",
+    "token": "",
+    "icon": ""
+  },
+  "phabricator": {
+    "url": "",
+    "token": ""
+  }
+}
